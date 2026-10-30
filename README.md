@@ -28,11 +28,11 @@ Los últimos cuatro no tienen repositorio público.
 
 ### Herramientas
 
-**Lenguajes:** Python, Java, JavaScript, PHP, SQL (T-SQL), HTML/CSS<br>
-**Frameworks:** FastAPI, Django, Node.js, Spring Boot, React, GeneXus 18 (.NET)<br>
+**Lenguajes:** Python, C#, Java, JavaScript, PHP, SQL (T-SQL), HTML/CSS<br>
+**Frameworks:** FastAPI, .NET, Django, Node.js, Spring Boot, React, GeneXus 18<br>
 **Bases de datos:** SQL Server, MySQL, PostgreSQL, MariaDB, Cassandra, Neo4j<br>
 **IA y datos:** agentes de IA, ingeniería de prompts, OpenCV, YOLO, TensorFlow, Pandas<br>
-**Otros:** Git, Docker
+**Otros:** APIs REST, Git, Docker
 
 ### Contacto
 
