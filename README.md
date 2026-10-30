@@ -1,16 +1,16 @@
 ## Jorge Marcos Sánchez
 
-Desarrollador de aplicaciones en Veracruz. Desde mayo de 2026 trabajo en GAR Logística Aduanal, donde hago herramientas con IA para revisar la documentación de los expedientes y las conecto con los sistemas internos de la agencia (GeneXus 18 y SQL Server).
+Desarrollador de aplicaciones en Veracruz. De mayo a octubre de 2026 trabajé en GAR Logística Aduanal, donde hice herramientas con IA para revisar la documentación de los expedientes y las conecté con los sistemas internos de la agencia (GeneXus 18 y SQL Server). Ahora busco mi siguiente puesto en desarrollo backend o en proyectos con IA.
 
 Soy Ingeniero en Sistemas Computacionales por el Instituto Tecnológico de Veracruz, generación 2021-2025.
 
-### En el trabajo
+### En GAR Logística Aduanal
 
 - Integré un agente de IA (Glob.AI OS / IRIS) con GeneXus para revisar los documentos del alta de referencias. Esa revisión tomaba de 3 a 5 días y ahora sale en unas 2 horas.
 - Hice un auditor de pre-glosa que lee entre 5 y 20 documentos por expediente (facturas comerciales, listas de empaque, conocimientos de embarque) y señala lo que no cuadra entre ellos.
 - Las respuestas del agente llegan en JSON y las convierto en reportes de Excel. El modelo de datos es flexible porque cada tipo de documento trae campos distintos.
 - Desarrollé el módulo web de alta de referencias conectado al SIR, el sistema central de la agencia, con autenticación GAM y un design system propio.
-- Hice el prototipo de la nueva versión del sistema de expedientes en Python (FastAPI y SQLAlchemy). También me encargo de la base de datos en SQL Server: migraciones, tablas e integraciones por vistas.
+- Hice el prototipo de la nueva versión del sistema de expedientes en Python (FastAPI y SQLAlchemy). También me encargué de la base de datos en SQL Server: migraciones, tablas e integraciones por vistas.
 
 Ese código es de la empresa, por eso no está aquí.
 
