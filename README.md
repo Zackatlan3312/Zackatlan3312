@@ -6,9 +6,9 @@ Soy Ingeniero en Sistemas Computacionales por el Instituto Tecnológico de Verac
 
 ### En GAR Logística Aduanal
 
-- Integré un agente de IA (Glob.AI OS / IRIS) con GeneXus para revisar los documentos del alta de referencias. Esa revisión tomaba de 3 a 5 días y ahora sale en unas 2 horas.
+- Integré un agente de IA (Glob.AI OS / IRIS) con GeneXus para revisar los documentos del alta de referencias. Esa revisión tomaba de 3 a 5 días y pasó a unas 2 horas.
 - Hice un auditor de pre-glosa que lee entre 5 y 20 documentos por expediente (facturas comerciales, listas de empaque, conocimientos de embarque) y señala lo que no cuadra entre ellos.
-- Las respuestas del agente llegan en JSON y las convierto en reportes de Excel. El modelo de datos es flexible porque cada tipo de documento trae campos distintos.
+- Hice el flujo que convierte las respuestas JSON del agente en reportes de Excel, con un modelo de datos flexible porque cada tipo de documento trae campos distintos.
 - Desarrollé el módulo web de alta de referencias conectado al SIR, el sistema central de la agencia, con autenticación GAM y un design system propio.
 - Hice el prototipo de la nueva versión del sistema de expedientes en Python (FastAPI y SQLAlchemy). También me encargué de la base de datos en SQL Server: migraciones, tablas e integraciones por vistas.
 
