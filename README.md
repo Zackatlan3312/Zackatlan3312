@@ -1,6 +1,6 @@
 ## Jorge Marcos Sánchez
 
-Desarrollador de aplicaciones en Veracruz. De mayo a octubre de 2026 trabajé en GAR Logística Aduanal, donde hice herramientas con IA para revisar la documentación de los expedientes y las conecté con los sistemas internos de la agencia (GeneXus 18 y SQL Server). Ahora busco mi siguiente puesto en desarrollo backend o en proyectos con IA.
+Desarrollador de aplicaciones en Veracruz. De mayo a octubre de 2026 trabajé en GAR Logística Aduanal, donde hice herramientas con IA para revisar la documentación de los expedientes y las conecté con los sistemas internos de la agencia. Ahora busco mi siguiente puesto en desarrollo backend o en proyectos con IA.
 
 Soy Ingeniero en Sistemas Computacionales por el Instituto Tecnológico de Veracruz, generación 2021-2025.
 
@@ -29,7 +29,7 @@ Los últimos cuatro no tienen repositorio público.
 ### Herramientas
 
 **Lenguajes:** Python, Java, JavaScript, PHP, SQL (T-SQL), HTML/CSS<br>
-**Frameworks:** GeneXus 18 (.NET), FastAPI, Django, Node.js, Spring Boot, React<br>
+**Frameworks:** FastAPI, Django, Node.js, Spring Boot, React, GeneXus 18 (.NET)<br>
 **Bases de datos:** SQL Server, MySQL, PostgreSQL, MariaDB, Cassandra, Neo4j<br>
 **IA y datos:** agentes de IA, ingeniería de prompts, OpenCV, YOLO, TensorFlow, Pandas<br>
 **Otros:** Git, Docker
